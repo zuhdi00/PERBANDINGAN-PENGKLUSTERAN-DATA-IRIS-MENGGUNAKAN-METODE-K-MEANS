@@ -1,4 +1,4 @@
-# Simpson_3per8
+# PERBANDINGAN PENGKLUSTERAN DATA IRIS MENGGUNAKAN METODE K-MEANS
 #K-means
 Algoritma k-means adalah salah satu algoritma pengelompokan data yang digunakan untuk mengelompokkan data ke dalam beberapa kelompok berdasarkan jarak antara data tersebut. Algoritma ini dapat digunakan untuk berbagai macam aplikasi, salah satunya adalah deteksi iris mata.
 
